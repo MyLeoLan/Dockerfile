@@ -1,0 +1,1 @@
+AWVS/acunetix_trial.sh filter=lfs diff=lfs merge=lfs -text
